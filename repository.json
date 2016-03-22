@@ -1,0 +1,47 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "details": "https://github.com/iamstorm/SublimeStorm-DPalette",
+            "labels": ["palette", "terminal/shell"],
+            "platforms": "windows",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": "st3-",
+                    "dependencies": ["SublimeStorm-Dep", "SublimeStorm-Dep-Utils"]
+                }
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "name": "SublimeStorm-Dep",
+            "load_order": "01",
+            "description": "SublimeStorm Thirdparty Dependency",
+            "author": "iamstorm",
+            "issues": "https://github.com/iamstorm/SublimeStorm-Dep/issues",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "base": "https://github.com/iamstorm/SublimeStorm-Dep",
+                    "tags": "st3-"
+                }
+            ]
+        },
+        {
+            "name": "SublimeStorm-Dep-Utils",
+            "load_order": "02",
+            "description": "SublimeStorm Utils Dependency",
+            "author": "iamstorm",
+            "issues": "https://github.com/iamstorm/SublimeStorm-Dep-Utils/issues",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "base": "https://github.com/iamstorm/SublimeStorm-Dep-Utils",
+                    "tags": "st3-"
+                }
+            ]
+        }
+    ]
+}
