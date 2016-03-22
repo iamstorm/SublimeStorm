@@ -13,7 +13,7 @@ I will keep the plugin work for sublime text 3 (windows) all the time. But I hav
 ### 1. Setup SublimeStorm repository
 - Make sure Package Control has installed
 - Open you command Palette invoke command: *Package Control: Add Repository*
-- In the prompted input field enter: *https://raw.githubusercontent.com/psistorma/SublimeStorm/master/repository.json*
+- In the prompted input field enter: *https://raw.githubusercontent.com/iamstorm/SublimeStorm/master/repository.json*
 
 ### 2. Install your wanted plugin provied by SublimeStorm
 Now there are following plugin you can choose(more followed in future):
