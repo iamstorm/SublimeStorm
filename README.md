@@ -18,3 +18,4 @@ I will keep the plugin work for sublime text 3 (windows) all the time. But I hav
 ### 2. Install your wanted plugin provied by SublimeStorm
 Now there are following plugin you can choose(more followed in future):
 - [SublimeStorm-DPalette](https://github.com/iamstorm/SublimeStorm-DPalette)
+- [SublimeStorm-Traverse_Current_Directory](https://github.com/iamstorm/SublimeStorm-Traverse_Current_Directory)
