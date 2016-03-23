@@ -12,6 +12,18 @@
                     "dependencies": ["SublimeStorm-Dep", "SublimeStorm-Dep-Utils"]
                 }
             ]
+        },
+        {
+            "details": "https://github.com/iamstorm/SublimeStorm-Traverse_Current_Directory",
+            "labels": ["filesystem", "panel"],
+            "platforms": "windows",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "tags": "st3-",
+                    "dependencies": []
+                }
+            ]
         }
     ],
     "dependencies": [
