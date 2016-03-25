@@ -43,7 +43,7 @@
         },
         {
             "name": "SublimeStorm-Dep-Utils",
-            "load_order": "02",
+            "load_order": "80",
             "description": "SublimeStorm Utils Dependency",
             "author": "iamstorm",
             "issues": "https://github.com/iamstorm/SublimeStorm-Dep-Utils/issues",
